@@ -1,0 +1,11 @@
+.idea
+.env
+composer.lock
+node_modules
+/vendor
+_ide_helper.php
+.phpstorm.meta.php
+mix-manifest.json
+.DS_Store
+supervisord.log
+supervisord.pid
